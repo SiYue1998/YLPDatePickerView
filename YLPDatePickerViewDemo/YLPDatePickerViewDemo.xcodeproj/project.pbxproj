@@ -111,13 +111,13 @@
 		C1C24A2A27CB7133009B4FC4 /* YLPDatePickerViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				C1C24A3127CB7133009B4FC4 /* ViewController.h */,
+				C1C24A3227CB7133009B4FC4 /* ViewController.m */,
 				C1C24A6027CB8FF1009B4FC4 /* YLPDatePickerView */,
 				C1C24A2B27CB7133009B4FC4 /* AppDelegate.h */,
 				C1C24A2C27CB7133009B4FC4 /* AppDelegate.m */,
 				C1C24A2E27CB7133009B4FC4 /* SceneDelegate.h */,
 				C1C24A2F27CB7133009B4FC4 /* SceneDelegate.m */,
-				C1C24A3127CB7133009B4FC4 /* ViewController.h */,
-				C1C24A3227CB7133009B4FC4 /* ViewController.m */,
 				C1C24A3427CB7133009B4FC4 /* Main.storyboard */,
 				C1C24A3727CB7133009B4FC4 /* Assets.xcassets */,
 				C1C24A3927CB7133009B4FC4 /* LaunchScreen.storyboard */,
